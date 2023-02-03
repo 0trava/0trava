@@ -10,7 +10,8 @@
 <p>.......................</p>
 <h3>How to contact me:</h3>
 <p>E-mail: <a href="mailto:0trava@gmail.com">0trava@gmail.com</a></p>
-<p>Telegram messenger: <a href="https://www.linkedin.com/in/svetlanalytvyn/?locale=en_US" target="_blank">https://t.me/Otrava09</a> </p>
+<p>My page: <a href="https://www.linkedin.com/in/svetlanalytvyn/?locale=en_US" target="_blank">go to linkedin</a> </p>
+<p>Telegram messenger: <a href="https://t.me/Otrava09" target="_blank">massage</a> </p>
 <p>.......................</p>
 <h3>Life quote:</h3>
 <p>It doesn't matter how many days in your life. </p>
