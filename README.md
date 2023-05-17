@@ -21,6 +21,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ps,sketchup,vscode,js,html,css,react,sass,nodejs,figma&theme,&perline=10)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0trava&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0trava&show_icons=true&theme=transparent)
 
 
