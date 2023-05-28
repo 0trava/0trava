@@ -4,9 +4,9 @@
 
 <h2>&#128075 Hi there, I'm <a href="https://www.linkedin.com/in/svetlanalytvyn/?locale=en_US" target="_blank">Svetlana</a> </h2>
 
-<p>I believe in logic and acquired skills.</p>
-<p>Most of all, I like to learn and understand something new, to solve the tasks.</p>
-<p>I'm currently learning everything I can get my hands on.</p>
+I believe in logic and acquired skills.</br>
+Most of all, I like to learn and understand something new, to solve the tasks.</br>
+I'm currently learning everything I can get my hands on.</br>
 <p>.......................</p>
 <h3>&#129309; How to contact me:</h3>
 E-mail: <a href="mailto:svetlana.lytvyn09@gmail.com">svetlana.lytvyn09@gmail.com</a></br>
