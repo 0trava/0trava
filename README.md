@@ -2,6 +2,8 @@
 <h1>&#8252 STOP WAR IN UKRAINE &#8252</h1>
 
 
+![image](https://github.com/0trava/0trava/assets/102797527/1c05e9f5-9c42-4afc-b0d8-0ed9ae791bb6)
+
 <h2>&#128075 Hi there, I'm <a href="https://www.linkedin.com/in/svetlanalytvyn/?locale=en_US" target="_blank">Svetlana</a> </h2>
 
 I believe in logic and acquired skills.</br>
