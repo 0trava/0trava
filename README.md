@@ -22,7 +22,7 @@ It is important how much life is in your days
 <h3>&#129504; My stack and tools</h3>
 <h4>Frontend</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,react,sass,nodejs&theme,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,react,ts,redux,sass,nodejs&theme,&perline=10)](https://skillicons.dev)
 
 <hr>
 <h4>Visual effects</h4>
