@@ -13,7 +13,7 @@ I'm currently learning everything I can get my hands on.</br>
 <h3>&#129309; How to contact me:</h3>
 E-mail: <a href="mailto:svetlana.lytvyn09@gmail.com">svetlana.lytvyn09@gmail.com</a></br>
 My page: <a href="https://www.linkedin.com/in/svetlanalytvyn/?locale=en_US" target="_blank">go to linkedin</a> </br>
-Telegram messenger: <a href="https://t.me/Otrava09" target="_blank">massage</a></br>
+Telegram messenger: <a href="https://t.me/Lytvyn_09" target="_blank">massage</a></br>
 <p>.......................</p>
 <h3>&#9996; Life quote:</h3>
 It doesn't matter how many days in your life.</br>
